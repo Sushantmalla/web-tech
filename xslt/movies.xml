@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+    <movie id="1">
+        <name> Far Cry</name>
+        <genre> Action </genre>
+        <release-date> 2020 </release-date>
+    </movie>
+        <movie id="2">
+        <name> The Godfather</name>
+        <genre> Crime </genre>
+        <release-date> 2024 </release-date>
+    </movie>
+        <movie id="3">
+        <name> Inception</name>
+        <genre> Thriller </genre>
+        <release-date> 2022 </release-date>
+    </movie>
+        <movie id="4">
+        <name> Avatar</name>
+        <genre> SiFi </genre>
+        <release-date> 2016 </release-date>
+    </movie>
+    <movie id="5">
+        <name> Avatar 2</name>
+        <genre> SiFi </genre>
+        <release-date> 2023 </release-date>
+    </movie>
+</movies>
